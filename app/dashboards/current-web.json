@@ -127,7 +127,7 @@
             "font-size": "9pt"
           },
           "overflow": "min-height",
-          "fields": [ "@timestamp", "path", "message" ],
+          "fields": ["@timestamp", "clientip", "ident", "verb", "request", "response", "referrer"],
           "localTime": true,
           "timeField": "@timestamp",
           "highlight": [],

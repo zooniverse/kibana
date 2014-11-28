@@ -38,7 +38,7 @@
           ],
           "type": "text",
           "mode": "markdown",
-          "content": "### Zooniverse Logs \n\nIf the following links don't load, you probably just need to ask for access to the Elasticsearch cluster.\n\n## Static sites\n\n* [Frontend web requests](#/dashboard/file/static-web.json)\n\n## Legacy apps\n\n* [Frontend web requests](#/dashboard/file/legacy-web.json)\n* [Internal container logs](#/dashboard/file/legacy-internal.json)\n\n## Current apps\n\n* [Frontend web requests](#/dashboard/file/current-web.json)\n* [Internal container logs](#/dashboard/file/current-internal.json)\n\n## Panoptes\n\n* [Rails](#/dashboard/file/panoptes-rails.json)\n\n* [Frontend web requests](#/dashboard/file/panoptes-web.json)",
+          "content": "### Zooniverse Logs \n\nIf the following links don't load, you probably just need to ask for access to the Elasticsearch cluster.\n\n## Static sites\n\n* [Frontend web requests](#/dashboard/file/static-web.json)\n\n## Legacy apps\n\n* [Frontend web requests](#/dashboard/file/legacy-web.json)\n* [Internal container logs](#/dashboard/file/legacy-internal.json)\n\n## Current apps\n\n* [Frontend web requests](#/dashboard/file/current-web.json)\n* [Internal container logs](#/dashboard/file/current-internal.json)\n* [SES bounce notifications](#/dashboard/file/current-ses.json)\n\n## Panoptes\n\n* [Rails](#/dashboard/file/panoptes-rails.json)\n\n* [Frontend web requests](#/dashboard/file/panoptes-web.json)",
           "style": {},
           "status": "Stable"
         }
